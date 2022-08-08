@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573751332888",
+    "project_id": "fir-alvin-d4564",
+    "storage_bucket": "fir-alvin-d4564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573751332888:android:91b7a103528c3ef3dc336d",
+        "android_client_info": {
+          "package_name": "com.alvin19102046.praktikum11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573751332888-53iv5mo3dmf0g6rt7sf30a9ii6jnvjgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiM9M3NAteLjcdmWm6NKpYcHMlWYkrC04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573751332888-53iv5mo3dmf0g6rt7sf30a9ii6jnvjgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
